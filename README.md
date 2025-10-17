@@ -9,7 +9,7 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 COMO RODA O PROJETO:
 
 git clone "https://github.com/erikmaia15/minicurso-atv.git"
-entra na pasta que foi puxada
-npm install
-npm run dev
+entra na pasta que foi puxada ->
+npm install -> 
+npm run dev 
 para rodar!!!!

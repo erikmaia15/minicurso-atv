@@ -4,6 +4,7 @@
       <h1>Listagem de Usuários</h1>
       <template v-for="nome in arrayUsers" :key="nome">
         <p>Seu nome é: {{ nome }}</p>
+        <p>Seu nome é: {{ nome }}</p>
       </template>
     </div>
   </section>
